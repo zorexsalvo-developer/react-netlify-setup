@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8aeaa1bd-7e74-4cb5-abd1-62d9dfc2b665/deploy-status)](https://app.netlify.com/sites/admiring-bhaskara-78c13a/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/377e39b2-c6a5-40bf-8269-dd72f6629148/deploy-status)](https://app.netlify.com/sites/zealous-murdock-132576/deploys)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
