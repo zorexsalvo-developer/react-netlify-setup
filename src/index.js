@@ -2,15 +2,17 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
-import LoginContainer from './components/Login/LoginContainer.js';
+import LoginContainer from './components/Login/LoginContainer';
 import { Provider } from 'mobx-react';
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import * as serviceWorker from './serviceWorker';
 import RootStore from './stores/RootStore';
 import 'antd/dist/antd.css';
 
+const rootStore = new RootStore();
+
 ReactDOM.render(
-  <Provider store={RootStore}>
+  <Provider store={rootStore}>
     <BrowserRouter>
       <Switch>
         <Route exact path="/" component={App} />
