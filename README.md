@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8aeaa1bd-7e74-4cb5-abd1-62d9dfc2b665/deploy-status)](https://app.netlify.com/sites/admiring-bhaskara-78c13a/deploys)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
